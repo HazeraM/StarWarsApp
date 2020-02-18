@@ -34,3 +34,4 @@ var characters = [{
     forcePoints: 1350
 }
 ];
+
